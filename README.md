@@ -16,7 +16,6 @@
 ---
 
 ## Features
-
 - **Lightning fast** - Loads in under 100ms
 - **Minimal footprint** - Uses less than 30MB RAM
 - **Multi-language** - 20 languages supported
@@ -40,7 +39,7 @@
 ### Main Interface
 ```
 ┌─────────────────────────────────────────────┐
-│ Archivo  Ver  Ayuda                        │
+│ File  View  Help                            │
 ├─────────────────────────────────────────────┤
 │                                             │
 │                                             │
@@ -51,32 +50,9 @@
 │ image.jpg (1/25)                      ─ □ ✕ │
 └─────────────────────────────────────────────┘
 ```
-
-### About Dialog
-```
-┌─────────────────────────────────────────────┐
-│                                             │
-│   ┌──────────┐   XFCE Light Image Viewer    │
-│   │          │   Version 1.0.0              │
-│   │   🖼️     │                              │
-│   │          │   Purpose:                    │
-│   └──────────┘   Ultra-lightweight viewer    │
-│                  for low-resource systems    │
-│                                             │
-│                  Author:                     │
-│                  Iskander MegaLander        │
-│                  GrijanderousLender         │
-│                                             │
-│                  License: GNU GPL v3+        │
-│                                             │
-│             [ Click to close ]              │
-└─────────────────────────────────────────────┘
-```
-
 ## Installation
 
 ### Debian/Ubuntu
-
 ```bash
 # Download the latest .deb package
 sudo dpkg -i xfce-liview_1.0.0_amd64.deb
@@ -88,17 +64,13 @@ sudo apt-get install -f
 ### Arch Linux (AUR)
 
 ```bash
-# Using yay
-yay -S xfce-liview
-
-# Or manually
+# manually
 git clone https://aur.archlinux.org/xfce-liview.git
 cd xfce-liview
 makepkg -si
 ```
 
 ### Build from Source
-
 **Requirements:**
 - C++17 compiler (g++ or clang++)
 - CMake 3.10+
@@ -147,7 +119,6 @@ Open with > XFCE Light Image Viewer
 ```
 
 ## Keyboard Shortcuts
-
 | Key | Action |
 |-----|--------|
 | `←` / `→` | Previous / Next image |
@@ -158,7 +129,6 @@ Open with > XFCE Light Image Viewer
 | `Ctrl + Q` | Quit |
 
 ## Menu Options
-
 ### Archivo (File)
 - **Abrir carpeta...** - Select a new folder
 - **Cerrar** - Close the application
@@ -172,7 +142,6 @@ Open with > XFCE Light Image Viewer
 - **Idioma** - Change language
 
 ## Supported Languages
-
 | Language | Code |
 |-----------|------|
 | Español | es |
@@ -196,7 +165,6 @@ Open with > XFCE Light Image Viewer
 | Tiếng Việt | vi |
 
 ## Dependencies
-
 | Package | Description |
 |---------|-------------|
 | SDL2 | Simple DirectMedia Layer |
@@ -205,7 +173,6 @@ Open with > XFCE Light Image Viewer
 | Zenity | GTK dialogs for folder selection |
 
 ## Project Structure
-
 ```
 xfce-liview/
 ├── src/
@@ -221,7 +188,6 @@ xfce-liview/
 ```
 
 ## Contributing
-
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
@@ -229,16 +195,12 @@ xfce-liview/
 5. Open a Pull Request
 
 ## License
-
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Authors
-
-- **Iskander MegaLander**
-- **GrijanderousLender**
+- **Iskander MegaLander** AKA wsnlndrv
 
 ## Acknowledgments
-
 - Built with [SDL2](https://www.libsdl.org/)
 - Inspired by XFCE's minimalist philosophy
 - Created using [OpenCode](https://opencode.ai) / Big Pickle
