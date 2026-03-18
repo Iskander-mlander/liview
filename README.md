@@ -82,7 +82,7 @@ makepkg -si
 **Build:**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/xfce-liview.git
+git clone https://github.com/wsnlndrv/xfce-liview.git
 cd xfce-liview
 
 # Create build directory
