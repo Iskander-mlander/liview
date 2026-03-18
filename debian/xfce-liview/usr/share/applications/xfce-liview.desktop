@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=XFCE Light Image Viewer
+Comment=Ultra-fast image viewer
+Exec=xfce-liview %f
+Icon=xfce-liview
+Terminal=false
+Type=Application
+Categories=Graphics;Viewer;ImageViewer;
+MimeType=image/jpeg;image/png;image/gif;image/bmp;image/webp;
+StartupWMClass=xfce-liview

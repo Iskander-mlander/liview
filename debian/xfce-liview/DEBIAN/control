@@ -1,0 +1,11 @@
+Package: xfce-liview
+Version: 1.0.0
+Section: graphics
+Priority: optional
+Architecture: amd64
+Depends: libsdl2-2.0-0, libsdl2-image-2.0-0, libsdl2-ttf-2.0-0, zenity
+Maintainer: XFCE Community
+Description: Ultra-lightweight image viewer for XFCE
+ Ultra-fast image viewer optimized for low-resource systems.
+ Supports JPEG, PNG, GIF, BMP, and WebP formats.
+ Features recursive directory search and minimal memory usage.

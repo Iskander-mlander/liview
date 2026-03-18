@@ -1,0 +1,131 @@
+# English translations
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "Archivo"
+msgstr "File"
+
+msgid "Ver"
+msgstr "View"
+
+msgid "Ayuda"
+msgstr "Help"
+
+msgid "Abrir carpeta..."
+msgstr "Open folder..."
+
+msgid "Cerrar"
+msgstr "Close"
+
+msgid "Pantalla completa"
+msgstr "Fullscreen"
+
+msgid "Ventana"
+msgstr "Window"
+
+msgid "Ajustar"
+msgstr "Fit"
+
+msgid "Rellenar"
+msgstr "Fill"
+
+msgid "Estirar"
+msgstr "Stretch"
+
+msgid "Original"
+msgstr "Original"
+
+msgid "Zoom +"
+msgstr "Zoom +"
+
+msgid "Zoom -"
+msgstr "Zoom -"
+
+msgid "Tamano original"
+msgstr "Original size"
+
+msgid "Thumbnails: ON"
+msgstr "Thumbnails: ON"
+
+msgid "Thumbnails: OFF"
+msgstr "Thumbnails: OFF"
+
+msgid "Acerca de..."
+msgstr "About..."
+
+msgid "XFCE Light Image Viewer"
+msgstr "XFCE Light Image Viewer"
+
+msgid "Version 1.0.0"
+msgstr "Version 1.0.0"
+
+msgid "Objetivo:"
+msgstr "Purpose:"
+
+msgid "Visor ultra-liviano para sistemas"
+msgstr "Ultra-lightweight viewer for systems"
+
+msgid "con pocos recursos."
+msgstr "with few resources."
+
+msgid "Dependencias:"
+msgstr "Dependencies:"
+
+msgid "SDL2, SDL_image, SDL_ttf"
+msgstr "SDL2, SDL_image, SDL_ttf"
+
+msgid "Autor:"
+msgstr "Author:"
+
+msgid "Iskander MegaLander"
+msgstr "Iskander MegaLander"
+
+msgid "GrijanderousLender"
+msgstr "GrijanderousLender"
+
+msgid "Made in OpenCode/Big Pickle"
+msgstr "Made in OpenCode/Big Pickle"
+
+msgid "Click para cerrar"
+msgstr "Click to close"
+
+msgid "Seleccionar carpeta"
+msgstr "Select folder"
+
+msgid "Lenguaje"
+msgstr "Language"
+
+msgid "Espanol"
+msgstr "Spanish"
+
+msgid "English"
+msgstr "English"
+
+msgid "Aleman"
+msgstr "German"
+
+msgid "Frances"
+msgstr "French"
+
+msgid "Italiano"
+msgstr "Italian"
+
+msgid "Portugues"
+msgstr "Portuguese"
+
+msgid "Ruso"
+msgstr "Russian"
+
+msgid "Chino"
+msgstr "Chinese"
+
+msgid "Japones"
+msgstr "Japanese"
+
+msgid "Coreano"
+msgstr "Korean"
+
+msgid "Arabe"
+msgstr "Arabic"
