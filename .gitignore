@@ -1,0 +1,28 @@
+# Build
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Binarios
+*.deb
+xfce-liview
+xfce-liview_*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Locales (runtime data)
+locales/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
