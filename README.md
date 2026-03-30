@@ -65,7 +65,7 @@ sudo apt-get install -f
 
 ```bash
 # manually
-git clone https://aur.archlinux.org/xfce-liview.git
+git clone https://github.com/Iskander-mlander/liview.git
 cd xfce-liview
 makepkg -si
 ```
