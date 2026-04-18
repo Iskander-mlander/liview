@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+    <action>
+        <icon>xfce4-image-viewer</icon>
+        <name>Abrir con Light Viewer</name>
+        <description>Visor de imágenes ultra-liviano</description>
+        <unique-id>1547234567-1</unique-id>
+        <command>xfce-liview %f</command>
+        <selection>any</selection>
+        <image-files/>
+    </action>
+    <action>
+        <icon>xfce4-image-viewer</icon>
+        <name>Abrir directorio con Light Viewer</name>
+        <description>Abrir todas las imágenes del directorio</description>
+        <unique-id>1547234567-2</unique-id>
+        <command>xfce-liview %d</command>
+        <selection>any</selection>
+        <directory-files/>
+    </action>
+</actions>
